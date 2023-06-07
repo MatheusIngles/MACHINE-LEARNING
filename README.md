@@ -2,6 +2,9 @@
 
 Este é o meu repositório contendo o projeto de um modelo de Machine Learning, conforme solicitado pelo professor Alessandro. O objetivo do projeto foi treinar a máquina para reconhecer poses realizadas por mim. Além disso, a atividade teve como foco fazer uma apresentação sobre Machine Learning para os alunos e completar a nota da segunda parte do primeiro período.
 
+## Pasta Compartilhada:
+https://drive.google.com/drive/folders/1hV20rK7_UpwaRtkGQF-tKKFidnBJtL2T?usp=sharing
+
 ## Aplicativos Usados e Sites:
 
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
